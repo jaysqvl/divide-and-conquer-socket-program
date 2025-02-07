@@ -91,7 +91,7 @@ java main.client.controller.Client1
 
 - @jiadil
 - @MarinEstrada
-- @jsqvl
+- @jaysqvl
 - @k-lee07
 - @harpreetdubb
 
